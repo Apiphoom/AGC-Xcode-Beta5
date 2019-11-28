@@ -5,5 +5,6 @@ Xcode Beta 5 Swift app for AGC Robot(Part of AGC SPIM The Last) [Xcode Part]
 1) Support all apple platforms 
 2) Increase all security 
 3) increase tracking security
+4) include AI
 # Sponsore
 SPIM/CPALL/PIM
